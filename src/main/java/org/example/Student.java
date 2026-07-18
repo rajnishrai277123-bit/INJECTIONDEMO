@@ -19,10 +19,10 @@ public class Student {
         int start=course.enroll();
         if(start>=1)
         {
-            System.out.println("journey started...");
+            System.out.println("journey started ---...");
         }
         else{
-            System.out.println("payment failed...");
+            System.out.println("payment failed ----...");
         }
     }
 }
